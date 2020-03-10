@@ -1,0 +1,15 @@
+/*
+Client INDEX CSS | HOLDING: Reactified Web App
+Douglas MacKrell, Briahana Maugé, Joseph P. Pasaoa, Kathy Puma
+*/
+
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
